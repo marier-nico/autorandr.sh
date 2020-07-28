@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 CONFIG_DIR=$XDG_CONFIG_HOME
 if [ -z "${CONFIG_DIR}" ]; then
