@@ -92,4 +92,4 @@ changes to the window-manager's configuration depending on the selected
 profile. For example, it's possible to configure bspwm desktops depending
 on the selected profile.
 
-An example of this use-case is my own dotfiles [marier-nico/dotfiles](https://github.com/marier-nico/dotfiles).
+An example of this use-case is my own dotfiles [marier-nico/dotfiles](https://github.com/marier-nico/dotfiles/blob/nord-bspwm/config/bspwm/bspwmrc).
